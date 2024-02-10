@@ -1,0 +1,13 @@
+.bookCard {
+    color: #fff;
+    background-color: rgb(39, 39, 39);
+}
+
+.bookCard button:first-child {
+    background-color: rgb(85, 231, 72);
+    color: black;
+    border-radius: 0px;
+    padding: 4px;
+    font-size: 18px;
+    font-weight: 600;
+}

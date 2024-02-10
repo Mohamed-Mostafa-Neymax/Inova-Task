@@ -1,0 +1,11 @@
+.footerWrapper {
+    color: #fff;
+    background-color: rgb(19, 19, 19);
+}
+
+/* .footerWrapper div:first-child {
+} */
+
+.footerWrapper > p {
+    background-color: #000;
+}
